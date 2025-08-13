@@ -13,7 +13,7 @@ Buka:
 - http://localhost:8000/health
 - http://localhost:8000/weather?city=Jakarta
 
-## Kenapa begini?
+## Requirement
 - **Tanpa API key**: pakai Open‑Meteo & geocoding mereka.
 - **Cache 5 menit**: hemat call & lebih cepat.
 - **Payload simpel**: lokasi, cuaca saat ini, dan 24 jam ke depan.
